@@ -1,4 +1,6 @@
-This is my personal fork of the below repo, with my changes to the notebooks as I've been going through the review article. 
+This is my personal fork of drckf/mlreview_notebooks, with my changes to the notebooks as I've been going through the review article. 
+
+------------------------
 
 # mlreview_notebooks
 
